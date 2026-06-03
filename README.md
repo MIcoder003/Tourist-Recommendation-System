@@ -1,4 +1,4 @@
-# Tourist Recommendation System
+# Travel Recommendation System
 
 A simple experimental recommender system for Tokyo tourism destination data.
 
